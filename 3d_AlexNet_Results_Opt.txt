@@ -1,0 +1,6 @@
+3D AlexNet Performance Metrics
+Loss: 0.5448719084114946
+Accuracy: 85.85608005523682
+Sensitivity: 0.7766497461928934
+Specificity: 0.9368932038834952
+Precision: 0.9216867469879518
