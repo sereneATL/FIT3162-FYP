@@ -40,3 +40,5 @@ Contains the optimized AlexNet training script, used on data normalized using te
 ## 8. ML Testing
 
 Contains simple unit tests of the functions used to preprocess the data. 
+
+Note: For LIME explainability code, refer to the WebApp backend.
